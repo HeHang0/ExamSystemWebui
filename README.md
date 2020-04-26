@@ -1,4 +1,4 @@
-# exam-system-webui
+# vue-example
 
 ## Project setup
 ```
